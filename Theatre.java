@@ -1,20 +1,7 @@
 /*
-Theatre.java
-@ author
-21 2 /2017
-*/
-
-//Application to ask the user what day they want to go to the theatre.
-//Mon - thurs - 20 euros
-//Fri, sat or sun - 30 euros
-
-
-/*
 *Theatre1.java
-*author@L Murphy
-*10th Aug 2014
-*This lesson is about comparing stings - .equals is used for strings
-*if you want it to accept upper and lower case use .equalsIgnoreCase
+*@author C Sullivan
+*10th March 2017
 */
 import javax.swing.*;
 public class Theatre{
